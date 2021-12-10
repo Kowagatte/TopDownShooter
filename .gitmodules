@@ -1,0 +1,6 @@
+[submodule "TDServer"]
+	path = TDServer
+	url = git@github.com:Kowagatte/TDServer.git
+[submodule "TDClient"]
+	path = TDClient
+	url = git@github.com:Kowagatte/TDClient.git
