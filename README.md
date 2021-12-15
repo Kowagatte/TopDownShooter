@@ -21,7 +21,7 @@ If you want to see what is planned to be added or currently being worked on.
 Checkout [/projects](https://github.com/Kowagatte/TopDownShooter/projects)
 
 ## Milestones
-* Allow clients to connect to the server.
+* ~~Allow clients to connect to the server.~~
 * ~~Database implementation~~
 * Connections can log in to accounts.
 * Responses can be sent to the client from the server.
